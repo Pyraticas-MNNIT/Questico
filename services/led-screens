@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>LED Screens | QOKO Events - 01403 626008</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="copyright" content="©2022 QOKO Events" />
+<meta name="description" content="QOKO Events offers a wide range of LED screen hire and related event services across Sussex and the wider South East region. With industry-leading resolution and brightness, our LED screens are the best currently available on the market. Better yet, we stock both indoor LED screens and outdoor LED screens. Therefore, irrespective of the specific nature of your event, you can rest assured that QOKO Events has the right LED screen solution for you. " />
+<meta name="author" content="QOKO Events" />
+<meta name="Rating" content="General" />
+<meta name="ROBOTS" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="format-detection" content="telephone=no"/>
+<meta name="keywords" content="led screens, outdoor led screen, outdoor led screens, led video wall, indoor led screen hire, outdoor events, led screen rental, video wall, indoor led, led screen hire" />
+<link rel="canonical" href="https://qoko.co.uk/services/led-screens">
+<base href="https://qoko.co.uk/">
+
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/theme/img/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/theme/img/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/theme/img/favicons/favicon-16x16.png">
+<link rel="manifest" href="/theme/img/favicons/site.webmanifest">
+<link rel="mask-icon" href="/theme/img/favicons/safari-pinned-tab.svg" color="#360942">
+<link rel="shortcut icon" href="/theme/img/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#360942">
+<meta name="msapplication-config" content="/theme/img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#360942">
+
+
+
+
+<!-- Open Graph data -->
+<meta property="fb:admins" content="1691885192"/> 
+<meta property="fb:app_id" content="" />
+<meta property="og:locale" content="en_GB" /> 
+<meta property="og:title" content="QOKO Events - LED Screens" />
+<meta property="og:type" content="business.website" /> 
+<meta property="business:contact_data" content="01403 626008" />
+<meta property="og:description" content="QOKO Events offers a wide range of LED screen hire and related event services across Sussex and the wider South East region. With industry-leading resolution and brightness, our LED screens are the best currently available on the market. Better yet, we stock both indoor LED screens and outdoor LED screens. Therefore, irrespective of the specific nature of your event, you can rest assured that QOKO Events has the right LED screen solution for you. " /> 
+<meta property="og:url" content="https://qoko.co.uk" /> 
+<meta property="og:image" content="https://qoko.co.uk/images/headers/led-screens.jpg" />
+<meta property="og:site_name" content="QOKO Events - LED Screens" />
+
+
+<!-- Twitter Summary Card 
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@"> 
+<meta name="twitter:creator" content="@"> 
+<meta name="twitter:title" content="QOKO Events - LED Screens"> 
+<meta name="twitter:description" content="QOKO Events offers a wide range of LED screen hire and related event services across Sussex and the wider South East region. With industry-leading resolution and brightness, our LED screens are the best currently available on the market. Better yet, we stock both indoor LED screens and outdoor LED screens. Therefore, irrespective of the specific nature of your event, you can rest assured that QOKO Events has the right LED screen solution for you. ">
+<meta name="twitter:image" content="https://qoko.co.uk/images/headers/led-screens.jpg"> -->
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/theme/css/screen.css"  />
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+	 
+
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>      <script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>    <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2F3WPR2G6E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2F3WPR2G6E');
+</script>
+</head>
+
+<body id="home">
+
+	<div id="preloader">
+	<div id="loader"></div>
+</div>	
+	<div id="full-screen-nav" class="full-screen-nav">
+	    <span class="full-screen-nav-close"></span>
+
+		<div class="full-screen-nav-content" data-aos="fade-down" data-aos-delay="100" data-aos-easing="ease-in-out" data-aos-duration="300" data-aos-once="true">
+			<div class="small-logo">
+				<img src="/theme/img/qoko-logo.png" width="600" height="300" title="QOKO Events" alt="QOKO Events" /></div> 
+	        <ul class="full-screen-nav-menu"><li class="first"><a href="https://qoko.co.uk/" title="Home" >Home</a></li>
+
+<li class=""><a href="events" title="Events" >Events</a></li>
+
+<li class="active"><a href="services" title="Services" >Services</a></li>
+
+<li class=""><a href="blog" title="Blog" >Blog</a></li>
+
+<li class=""><a href="about" title="About" >About</a></li>
+
+<li class="last"><a href="contact" title="Contact" >Contact</a></li>
+
+</ul>
+
+		<div class="nav-content-contact">
+
+			<p class="menu-tel"><a class="telnum" href="tel:+441403626008">01403 626008</a></p>
+			<p class="menu-email"><a href="mailto:hello@qoko.co.uk" title="Email us...">hello@qoko.co.uk</a></p>
+			
+			<ul class="social-links">
+		<li data-aos="zoom-out" data-aos-delay="100" data-aos-duration="300" data-aos-easing="ease-in-out-cubic" data-aos-offset="0" data-aos-once="true"><a class="facebook" href="https://www.facebook.com/QokoEvents" rel="nofollow" target="_blank" title="Like us on Facebook...">Facebook</a></li>
+		<!--<li data-aos="zoom-out" data-aos-delay="200" data-aos-duration="300" data-aos-easing="ease-in-out-cubic" data-aos-offset="0" data-aos-once="true"><a class="twitter" href="https://twitter.com/" rel="nofollow" target="_blank" title="Follow us on Twitter...">Twitter</a></li>-->
+		<li data-aos="zoom-out" data-aos-delay="300" data-aos-duration="300" data-aos-easing="ease-in-out-cubic" data-aos-offset="0" data-aos-once="true"><a class="instagram" href="https://www.instagram.com/qokoevents/" rel="nofollow" target="_blank" title="Follow us on Instagram...">Instagram</a></li>
+</ul>
+		</div>
+
+	    </div>
+
+	</div>
+<div id="pagebox">
+
+
+<header>
+<div id="topbar">
+<div class="mobile-menu">
+			<button id="show-nav">
+				<span id="menu-wrapper">
+	 			<span></span>
+	  			<span></span>
+	  			<span></span>
+				</span>
+			</button>
+		<!-- end .mobile-menu--></div>
+
+		
+<h2><a class="telnum" href="tel:+441403626008">01403 626008</a></h2>
+<!-- end #topbar--></div>	
+
+<div class="header-inner">	
+<div class="logo" data-aos="zoom-out" data-aos-delay="100" data-aos-easing="ease-out" data-aos-duration="300" data-aos-once="true"><a title="QOKO Events - Event Specialists" href="/"><img width="412" height="103" title="QOKO Events" alt="QOKO Events" src="/theme/img/qoko-logo.png" /></a></div>
+	
+<div id="topnav"><ul class="sf-menu"><li class="first"><a href="https://qoko.co.uk/">Home<span class="underline"></span></a></li>
+<li><a href="events">Events<span class="underline"></span></a><ul class="subnav" ><li><a  class="first" href="events/weddings">Weddings</a></li>
+<li><a  href="events/awards-shows">Awards Shows</a></li>
+<li><a  href="events/bar-mitzvah-and-bat-mitzvah">Bar Mitzvah & Bat Mitzvah</a></li>
+<li><a  href="events/private-events">Private Events</a></li>
+<li><a  href="events/corporate-parties">Corporate Parties</a></li>
+<li><a  href="events/conferences">Conferences</a></li>
+<li><a  href="events/sporting-events">Sporting Events</a></li>
+<li><a  href="events/school-proms">School Proms</a></li>
+<li><a  href="events/christmas-parties">Christmas Parties</a></li>
+<li><a  href="events/product-launches">Product Launches</a></li>
+<li><a  class="last" href="events/festivals">Festivals</a></li>
+</ul></li>
+<li class="active"><a href="services">Services<span class="underline"></span></a><ul class="subnav" ><li><a  class="first" href="services/event-lighting">Event Lighting</a></li>
+<li><a  href="services/staging">Staging</a></li>
+<li><a  href="services/sound-equipment">Sound Equipment</a></li>
+<li><a  class="active" href="services/led-screens">LED Screens</a></li>
+<li><a  href="services/conference-equipment">Conference Equipment</a></li>
+<li><a  href="services/projectors-and-plasma-screens">Projectors & Plasma Screens</a></li>
+<li><a  href="services/event-power">Event Power</a></li>
+<li><a  href="services/event-furniture">Event Furniture</a></li>
+<li><a  href="services/backdrops-and-draping">Backdrops & Draping</a></li>
+<li><a  href="services/event-installations">Event Installations</a></li>
+<li><a  href="services/special-effects">Special Effects</a></li>
+<li><a  href="services/marquees-and-structures">Marquees & Structures</a></li>
+<li><a  class="last" href="services/dance-floors">Dance Floors</a></li>
+</ul></li>
+<li><a href="blog">Blog<span class="underline"></span></a></li>
+<li><a href="about">About<span class="underline"></span></a></li>
+<li class="last"><a href="contact">Contact<span class="underline"></span></a></li>
+</ul><!-- end #topnav--></div>
+<!-- end #header-inner--></div>	
+
+</header>
+	
+
+<div class="tp-banner-container">
+<div class="tp-banner">
+		<ul><li data-transition="fade" data-slotamount="6"  data-masterspeed="800"  data-delay="10000" data-saveperformance="on"  data-title="LED Screens" >
+<img src="/assets/components/phpthumbof/cache/led-screens.2b8656722cb39966b792f52f5a2611a6.jpg" title="LED Screens" alt="LED Screens"  data-bgposition="center center" data-bgpositionend="center center" data-kenburns="on" data-duration="10000" data-easing="easeInOut" data-bgfit="100" data-bgfitend="100" />
+</li> </ul>
+<!-- end .tp-banner--></div>
+<!-- end .tp-container--></div>
+
+
+<div id="particles-js"></div> 
+
+<div id="page">
+
+
+
+
+	<section class="wide raised lazyload" >
+		<div class="triangle-left"></div>
+		<div class="triangle-right"></div>
+		<div class="maincol">
+		<div id="breadcrumbs"><ul class="B_crumbBox" itemscope itemtype="https://schema.org/BreadcrumbList"><li class="B_firstCrumb" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a class="B_homeCrumb" itemprop="item" rel="Home" href="/"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+ &#47; <li class="B_crumb" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a class="B_crumb" itemprop="item" rel="Services" href="services"><span itemprop="name">Services</span></a><meta itemprop="position" content="2" /></li>
+ &#47; <li class="B_lastCrumb" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a class="B_currentCrumb" itemprop="item" rel="QOKO Events offers a wide range of LED screen hire and related event services across Sussex and the wider South East region. With industry-leading resolution and brightness, our LED screens are the best currently available on the market. Better yet, we stock both indoor LED screens and outdoor LED screens. Therefore, irrespective of the specific nature of your event, you can rest assured that QOKO Events has the right LED screen solution for you. " href="services/led-screens"><span itemprop="name">LED Screens</span></a><meta itemprop="position" content="3" /></li>
+</ul></div>
+			<h1>LED Screens.</h1>
+			<h2>QOKO Events offers a wide range of LED screen hire and related event services across Sussex and the wider South East region. With industry-leading resolution and brightness, our LED screens are the best currently available on the market. Better yet, we stock both indoor LED screens and outdoor LED screens. Therefore, irrespective of the specific nature of your event, you can rest assured that QOKO Events has the right LED screen solution for you. </h2>
+			<div class="scroll-nav"><p>Quick Links:</p><a class="quick-scroll" href="#indoor-led-screens">Indoor LED Screens</a>
+<a class="quick-scroll" href="#outdoor-led-screens">Outdoor LED Screens</a></div>
+			<p>But before we delve into the specific LED technology we have on offer, it's worth running over why you should think about investing in LED screen hire.&nbsp;</p>
+<h2>Why Hire an LED Screen for Your Sussex Event?&nbsp;</h2>
+<p>In short, LED video screens are perhaps the best medium for broadcasting video content to your event attendees. In years gone by, events were often limited to projector and screen combinations. However, in the last decade, the performance of LED screens has come on leaps and bounds. Today, LED video wall screens boast high resolution and unmatched image quality, making them the medium of choice for all kinds of events.&nbsp;</p>
+<p>Gone are the days when you had to sit dozens of metres away to view the content without being distracted by the dark spaces in between LED nodes. Instead, we stock LED wall screens with a pixel pitch as little as 3.9mm. Consequently, UK event organisers planning fashion shows or large-scale exhibitions can have their audience as close as a few metres away while enjoying crystal clear full-HD content. &nbsp;</p>
+<p>As one of Sussex's leading event production companies, we recognised this fact early and began to slowly but surely invest in these high-resolution LED screens, expanding the number of LED video panels to well over 120 square metres. Even now, we continue to reinvest our profits into expanding our portfolio or LED screen rental options.&nbsp;</p>
+<h2>What Types of Events Benefit from LED Screens?&nbsp;</h2>
+<p>In terms of the events that benefit from LED screen hire, it's hard to list them all since almost all events can benefit in some way from hiring LED panels. Corporate events are an obvious candidate, as they are flexible enough to act as important digital signage, deliver stunning video footage, or add to a presentation.&nbsp;</p>
+<p>Outdoor events such as music festivals also benefit from these bright stage accompaniments. Not only can they act as enormous video screens for those further away to see the individual expressions of performers, but they can act as vital production elements that add to the overall visual displays and performances of those on stage.&nbsp;</p>
+<p>Of course, you may simply want to hire an LED screen due to its sheer size. For events with big audiences, such as an outdoor cinema screening or a sporting broadcast of an England football match, a high-resolution LED screen will always form an integral part of such a great event. If your event, like those just mentioned, relies on a screen to decide the overall success of the event, then you need to opt for an LED screen rather than another similar solution.&nbsp;</p>
+<p>Not only can audience members see images and video content without any issues in bright natural light, but they can also display high-quality HD footage to audiences as far as a few hundred metres away.&nbsp;</p>
+<p>So, whether you intend to invest in LED video wall hire for your exhibition halls or you need a range of screen sizes for your outdoor music event, QOKO Events can devise cost-effective solutions using one of the biggest repositories of LED video panels in the UK. With that in mind, let us tell you a little bit more about our indoor LED screen hire services before moving on to our outdoor LED screen hire services.&nbsp;</p>
+		</div>
+
+		<div class="sidecol">
+
+
+
+			<div class="sidebox">
+<div class="sidebox-wrapper sidenav clearfix">
+	<div class="sidenav"><ul><li class="first"><a href="services/event-lighting" title="Event Lighting" >Event Lighting</a></li>
+<li><a href="services/staging" title="Staging" >Staging</a></li>
+<li><a href="services/sound-equipment" title="Sound Equipment" >Sound Equipment</a></li>
+<li class="active"><a href="services/led-screens" title="LED Screens" >LED Screens</a></li>
+<li><a href="services/conference-equipment" title="Conference Equipment" >Conference Equipment</a></li>
+<li><a href="services/projectors-and-plasma-screens" title="Projectors & Plasma Screens" >Projectors & Plasma Screens</a></li>
+<li><a href="services/event-power" title="Event Power" >Event Power</a></li>
+<li><a href="services/event-furniture" title="Event Furniture" >Event Furniture</a></li>
+<li><a href="services/backdrops-and-draping" title="Backdrops & Draping" >Backdrops & Draping</a></li>
+<li><a href="services/event-installations" title="Event Installations" >Event Installations</a></li>
+<li><a href="services/special-effects" title="Special Effects" >Special Effects</a></li>
+<li><a href="services/marquees-and-structures" title="Marquees & Structures" >Marquees & Structures</a></li>
+<li class="last"><a href="services/dance-floors" title="Dance Floors" >Dance Floors</a></li>
+</ul></div>
+<!-- end .sidebox-wrapper--></div>
+<!-- end .sidebox--></div>
+
+			<div class="sidebox" data-aos="zoom-out" data-aos-delay="100" data-aos-duration="300" data-aos-easing="ease-in-out-cubic" data-aos-offset="0" data-aos-once="true">
+	<div class="sidebox-wrapper clearfix showheader">
+<span class="h2">Get In Touch</span>
+<p>If you have any questions feel free to contact us FREE on:</p>
+<p><a class="telnum" href="tel:+441403626008">01403 626008</a><br /><a href="mailto:hello@qoko.co.uk" title="Email us...">hello@qoko.co.uk</a></p>
+
+<!-- end .sidebox-wrapper--></div>
+<!-- end .sidebox--></div>
+<div class="sidebox" data-aos="zoom-out" data-aos-delay="100" data-aos-duration="300" data-aos-easing="ease-in-out-cubic" data-aos-offset="0" data-aos-once="true">
+	<div class="sidebox-wrapper clearfix noheader">
+<span class="h2">Clients Say.</span>
+<div class="quotewrapper" data-aos="fade-up" data-aos-duration="300" data-aos-delay="0" data-aos-easing="ease-in-out-quad"><img class="q66" src="theme/img/66.png" alt="Quotation Mark" width="41" height="36" data-at2x="/theme/img/66@2x.png" />
+<ul class="quoteslider"><li><span class="quote-inner">
+<span class="quote"><p>Qoko supplied us with audio and visual equipment at short notice for an event of 600+ people in North London. They were extremely helpful and prompt to reply when it came to initial enquiries and quote, and on the day James was brilliant in terms of setting everything up and making sure we were totally happy with everything before he left us to it. Highly recommended.</p></span>
+
+</span>
+</li>
+<li><span class="quote-inner">
+<span class="quote"><p>Fantastic company with extremely reasonable prices! I&rsquo;ve hired from them twice now and I&rsquo;m sure it won&rsquo;t be the last time! Very accommodating with timings and overall a great, reliable company to hire from! Definitely recommend highly.</p></span>
+
+</span>
+</li>
+<li><span class="quote-inner">
+<span class="quote"><p>Kerry is brilliant to communicate with, and their equipment was very up to standard. Thanks again!</p></span>
+
+</span>
+</li>
+<li><span class="quote-inner">
+<span class="quote"><p>Very happy customer here! I've had great service for short notice bookings, and the team have gone above and beyond to advise and facilitate hire. Also incredibly convenient to be able to pull up right to the load bay to move kit. Thank you!</p></span>
+
+</span>
+</li>
+<li><span class="quote-inner">
+<span class="quote"><p>Qoko and event team team are amazing! They cater to your every need. Amazing at what they do and honestly just such lovely easy people to work with xxx</p></span>
+
+</span>
+</li>
+<li><span class="quote-inner">
+<span class="quote"><p>Unbelievable service from Qoko! Kerry was very helpful with recommending equipment, processing my initial and arranging delivery. My event was then postponed and there was no issues at all in pushing my hire date back when reorganised. Completely hassle free, great communication, fantastic service! Definitely, recommend.</p></span>
+
+</span>
+</li></ul>
+<!-- end .quotewrapper --></div>
+
+<!-- end .sidebox-wrapper--></div>
+<!-- end .sidebox--></div>
+			
+			
+			<!-- end .sidecol--></div>
+	<!-- end .wide --></section>
+
+
+
+	<section id="indoor-led-screens" class="wide text-left lazyload">
+		<div class="triangle-left"></div>
+		<div class="triangle-right"></div>
+		<div class="col-2 subservice-text" data-aos="fade-right" data-aos-delay="100" data-aos-easing="ease-out" data-aos-duration="300" data-aos-once="true">
+			<h3>Indoor LED Screen Hire Services Sussex</h3>
+<h4>When it comes to indoor LED screens, QOKO Events has plenty of options for you to choose from. Not only can we build our LED screens to match your specifications, but we can also integrate them into production items such as your conference set or your exhibition stand.&nbsp;</h4>
+<p>When it comes to choosing your LED screen hire package, your requirements will most likely depend on the specific nature of your event. Let's take the example of an exhibition stand. In this scenario, you might want to integrate your LED video panels into your stand via bespoke integrated modular frames.&nbsp;</p>
+<p>We are one of the only event production companies in the UK offering custom solutions in this manner, and opting for these other services (such as custom exhibition stand design) is bound to help your company stand head and shoulders above the rest.&nbsp;</p>
+<p>Conversely, you might want to pay for big-screen hire for your upcoming conference, where it will act as a presentation aid and display essential video content. In that case, you might simply want to build one enormous video wall positioned at the rear of your set.&nbsp;</p>
+<p>Whatever your choices, you can lean on the experience and expertise of our team today to ensure you have the perfect indoor LED video panel setup. We can talk you through the different screen dimensions, how they interact with the most common video and image aspect ratios, and explain how the different rigging options work.&nbsp;</p>
+<p>For instance, do you want to opt for ground-stacked (ground supported) LED screens? Or would you prefer to have your LED video wall suspended ("flown") from a truss structure above? Each option has its pros and cons, which is why it's such a good idea to discuss your options with LED screen specialists.&nbsp;</p>
+		</div>
+		<div class="col-2 subservice-img" data-aos="fade-left" data-aos-delay="300" data-aos-easing="ease-out" data-aos-duration="300" data-aos-once="true">
+			<img src="/assets/components/phpthumbof/cache/indoor-led-screens-1.8cc099caa7dcd8e6cd8ffb83891dce02.jpg" alt="Indoor LED Screens" title="Indoor LED Screens"/>
+		</div>
+
+
+	<!-- end .wide --></section>
+<section id="outdoor-led-screens" class="wide text-right lazyload">
+		<div class="triangle-left"></div>
+		<div class="triangle-right"></div>
+		<div class="col-2 subservice-text" data-aos="fade-right" data-aos-delay="100" data-aos-easing="ease-out" data-aos-duration="300" data-aos-once="true">
+			<h3>Outdoor LED Screen Hire Services Sussex</h3>
+<h4>Regarding outdoor LED screens, we have just as many options for event planners to choose from. Our team will have more to discuss with you than for an indoor event. However, after an initial consultation, we are sure that you will hire an outdoor screen that you are more than happy with.&nbsp;</h4>
+<p>Unlike other hire companies, with our LED screens, you won't need to think about the sun's position since direct sunlight doesn't inhibit the viewing experience with our super-bright LED screens. Nor will you have to worry about the infamous British elements, seeing as our LED screens for hire are specifically designed for outdoor events. They have IP 65 ratings, meaning if the weather lets you down, our screens won't.&nbsp;</p>
+<p>For outdoor events such as drive-in cinema screenings, our 3.9mm pixel pitch screens allow you to place your paying guests a mere few metres away, increasing your range of capacity options. The same could be said for broadcasting sporting events, where the quality of the video content is everything.&nbsp;</p>
+<p>Don't forget that we specialise in providing holistic event equipment hire solutions, so if you need additional pieces of production equipment such as lighting fixtures, truss support beams, sound systems, or even camera lighting if you're broadcasting, QOKO Events has a huge range of equipment at your disposal.</p>
+<p>Once again, our team will be on hand to offer support and add a personal touch to our service. Whether you need a quick set-up on-site or you need to hire LED screens at short notice for your outdoor event, we will always go the extra mile to accommodate your screen hire requests.&nbsp;</p>
+		</div>
+		<div class="col-2 subservice-img" data-aos="fade-left" data-aos-delay="300" data-aos-easing="ease-out" data-aos-duration="300" data-aos-once="true">
+			<img src="/assets/components/phpthumbof/cache/049%20Outdoor%20Cinema%20Screen%20Hire.8cc099caa7dcd8e6cd8ffb83891dce02.jpg" alt="Outdoor LED Screens" title="Outdoor LED Screens"/>
+		</div>
+
+
+	<!-- end .wide --></section>
+
+	<section id="serv-contact" class="wide lazyload">
+		<div class="triangle-left"></div>
+		<div class="triangle-right"></div>
+		<div class="col-3" data-aos="fade-up" data-aos-delay="100" data-aos-easing="ease-out" data-aos-duration="300" data-aos-once="true">
+			<h1>LED Screen Hire Enquiries</h1>
+<h2>Choose QOKO Events for All of Your LED Screen Requirements&nbsp;</h2>
+<p>As one of the most rapidly evolving technologies, LED screens are fast becoming event organiser's go-to devices for events displaying video footage, imagery, and performance visuals. Whether you are hosting an indoor conference or an outdoor cinema screening, your choice of LED screen will have a direct impact on the success of your event. That's why you should consider working with QOKO Events. A company that boasts well over 120 square metres of LED video panels, each with brightness levels of over 5,000 NITS, an IP 65 rating, and a screen pixel pitch as low as 3.9mm. When you add in our LED screens' crystal-clear resolution and our ability to build any size and shape of screen, there's no reason to hire one from anywhere else.&nbsp;So, if you're thinking about hiring an LED screen for your upcoming Sussex event, then make sure to get in touch with a member of our friendly team to discuss our range of screen hire services in more detail.&nbsp;</p>
+		</div>
+
+		<div class="contact-box">
+			<span class="h2 white">For enquiries please get in touch:</span>
+			<span class="h2"><a class="telnum" href="tel:+441403626008">01403 626008</a> <span>//</span> <a href="mailto:hello@qoko.co.uk" title="Email us...">hello@qoko.co.uk</a></span>
+		</div>
+
+
+
+	<!-- end .wide --></section>
+
+
+	<section class="fullwidth blocks lazyload" >
+		<div class="triangle-left"></div>
+		<div class="triangle-right"></div>
+
+		<div class="widecol">
+
+
+			<div class="blocks-wrapper">
+				<div class="faq-block">
+				<span class="h2 underline" data-aos="zoom-out" data-aos-delay="100" data-aos-easing="ease-out" data-aos-duration="300" data-aos-once="true">LED Screens FAQS.</span>
+				<div class="faq-wrapper">
+
+				<div class="question"><span class="plus-x">+</span><h3 class="faq-h3">How much does it cost to hire an LED screen?</h3></div>
+<div class="answer">
+<p>The smallest LED video wall we offer is a 3 meter wide X 2 meter high screen with a pixel pitch of 3.9mm. The cost is &pound;75.00 per SQM plus rigging, crew &amp; delivery.&nbsp;</p>
+</div>
+<div class="question"><span class="plus-x">+</span><h3 class="faq-h3">Can we use the LED screen outdoors?</h3></div>
+<div class="answer">
+<p>Yes, we stock both indoor &amp; outdoor LED screens so if you are planning an outdoor event you will need to hire an IP rated / waterproof LED screen.</p>
+</div>
+<div class="question"><span class="plus-x">+</span><h3 class="faq-h3">How big are your LED screens?</h3></div>
+<div class="answer">
+<p>Our LED screens are modular and made up of 500mm X 500mm or 1000mm X 500mm LED panels. We charge &pound;75.00 ex VAT per SQM &amp; the minimum screen size we recommend is 6 SQM or 3 meters X 2 meters.</p>
+</div>
+<div class="question"><span class="plus-x">+</span><h3 class="faq-h3">How clear will the video / images be on the screen?</h3></div>
+<div class="answer">
+<p>The short answer is very clear. Our LED screens have a pixel pitch of 3.9mm meaning you can watch football games / F1 racing or anything else you can think of without any problems from just a few feet back.&nbsp;</p>
+</div>
+<div class="question"><span class="plus-x">+</span><h3 class="faq-h3">Can you suspend the screen in the air?</h3></div>
+<div class="answer">
+<p>Yes we offer a couple of solutions for mounting the screen, we can build the screen on the floor or &lsquo;&rsquo;fly&rsquo;&rsquo; the screen from truss. If you are planning on flying / suspending the screen from truss this increases the cost.&nbsp;</p>
+</div>
+
+
+
+				</div>
+				</div>
+
+
+			</div>
+
+		</div>
+	<!-- end .fullwidth --></section>
+
+					<section class="fullwidth clients lazyload" >
+		<div class="triangle-left"></div>
+		<div class="triangle-right"></div>
+
+		<div class="widecol">
+		<span class="h2 underline" data-aos="zoom-out" data-aos-delay="100" data-aos-easing="ease-out" data-aos-duration="300" data-aos-once="true">Our Clients.</span>
+			<div class="client-wrapper">
+				<div class="client-logo" data-aos="zoom-out" data-aos-delay="0" data-aos-easing="ease-out" data-aos-duration="400" data-aos-once="true"><img src="/images/clients/adidas.png" title="Adidas" /></div>
+				<div class="client-logo" data-aos="zoom-out" data-aos-delay="100" data-aos-easing="ease-out" data-aos-duration="400" data-aos-once="true"><img src="/images/clients/amazon.png" title="Amazon" /></div>
+				<div class="client-logo" data-aos="zoom-out" data-aos-delay="200" data-aos-easing="ease-out" data-aos-duration="400" data-aos-once="true"><img src="/images/clients/mercedes.png" title="Mercedes" /></div>
+				<div class="client-logo" data-aos="zoom-out" data-aos-delay="300" data-aos-easing="ease-out" data-aos-duration="400" data-aos-once="true"><img src="/images/clients/bp.png" title="BP" /></div>
+				<div class="client-logo" data-aos="zoom-out" data-aos-delay="400" data-aos-easing="ease-out" data-aos-duration="400" data-aos-once="true"><img src="/images/clients/hugo-boss.png" title="Hugo Boss" /></div>
+				<div class="client-logo" data-aos="zoom-out" data-aos-delay="500" data-aos-easing="ease-out" data-aos-duration="400" data-aos-once="true"><img src="/images/clients/army.png" title="UK Army" /></div>
+				<div class="client-logo" data-aos="zoom-out" data-aos-delay="600" data-aos-easing="ease-out" data-aos-duration="400" data-aos-once="true"><img src="/images/clients/nike.png" title="Nike" /></div>
+				<div class="client-logo" data-aos="zoom-out" data-aos-delay="700" data-aos-easing="ease-out" data-aos-duration="400" data-aos-once="true"><img src="/images/clients/spotify.png" title="Spotify" /></div>
+			</div>
+
+		</div>
+	<!-- end .fullwidth --></section>
+
+
+
+
+
+
+		
+	<!-- end #page--></div>
+
+<div id="footer-outer">
+		<div class="triangle-left"></div>
+		<div class="triangle-right"></div>
+<footer class="lazyload">
+	
+	<a id="footer-logo" class="scroll" title="QOKO Events - Home" href="#home" data-aos="zoom-out" data-aos-delay="100" data-aos-duration="400" data-aos-easing="ease-in-out-cubic" data-aos-offset="0"><img width="190" height="78" title="QOKO Events" alt="QOKO Events" src="/theme/img/qoko-logo.png" /></a>
+
+
+	<div id="footer-wrap">
+		<div id="footer-nav"><ul class="sf-menu"><li class="first"><a href="https://qoko.co.uk/">Home<span class="underline"></span></a></li>
+<li><a href="events">Events<span class="underline"></span></a></li>
+<li class="active"><a href="services">Services<span class="underline"></span></a></li>
+<li><a href="blog">Blog<span class="underline"></span></a></li>
+<li><a href="about">About<span class="underline"></span></a></li>
+<li class="last"><a href="contact">Contact<span class="underline"></span></a></li>
+</ul></div>
+		<div id="footer-big"><p>QOKO Events, Unit 32, Faygate, Horsham, West Sussex, RH12 4DN<br />
+			Office: <a class="telnum" href="tel:+441403626008">01403 626008</a>  Opening hours: <span>08:00-20:00 Monday-Sunday</span></p>
+		</div>
+		<div id="footer-copy"><p>©2022 QOKO Events // <a title="Open thekingofpixels.com" href="http://thekingofpixels.com" target="_blank" rel="nofollow">The King Of Pixels</a> // <a title="Open www.faultlessdesign.co.uk" href="http://www.faultlessdesign.co.uk" target="_blank" rel="nofollow">Faultless Design</a></p></div>
+	</div>
+
+
+
+</footer>
+<ul class="social-links">
+		<li data-aos="zoom-out" data-aos-delay="100" data-aos-duration="300" data-aos-easing="ease-in-out-cubic" data-aos-offset="0" data-aos-once="true"><a class="facebook" href="https://www.facebook.com/QokoEvents" rel="nofollow" target="_blank" title="Like us on Facebook...">Facebook</a></li>
+		<!--<li data-aos="zoom-out" data-aos-delay="200" data-aos-duration="300" data-aos-easing="ease-in-out-cubic" data-aos-offset="0" data-aos-once="true"><a class="twitter" href="https://twitter.com/" rel="nofollow" target="_blank" title="Follow us on Twitter...">Twitter</a></li>-->
+		<li data-aos="zoom-out" data-aos-delay="300" data-aos-duration="300" data-aos-easing="ease-in-out-cubic" data-aos-offset="0" data-aos-once="true"><a class="instagram" href="https://www.instagram.com/qokoevents/" rel="nofollow" target="_blank" title="Follow us on Instagram...">Instagram</a></li>
+</ul>
+<div id="btt-wrapper" class="hiddenbtt"><a class="btt-arrow scroll-btt" title="back to top" href="#home">Back to top...</a></div>
+</div>
+	
+<!-- end #pagebox--></div>
+
+
+
+
+
+	<script src="/theme/js/combined.min.js"></script>
+
+
+<script src="/theme/js/particles.js"></script>
+<script>
+  function loadParticles() {
+    var options = {
+  "particles": {
+    "number": {
+      "value": 65,
+      "density": {
+        "enable": true,
+        "value_area": 583.4159839310572
+      }
+    },
+    "color": {
+      "value": "#ec3458"
+    },
+    "shape": {
+      "type": "circle",
+      "stroke": {
+        "width": 0,
+        "color": "#000000"
+      },
+      "polygon": {
+        "nb_sides": 5
+      },
+      "image": {
+        "src": "img/github.svg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    "opacity": {
+      "value": 0.5,
+      "random": false,
+      "anim": {
+        "enable": false,
+        "speed": 1,
+        "opacity_min": 0.1,
+        "sync": false
+      }
+    },
+    "size": {
+      "value": 3,
+      "random": true,
+      "anim": {
+        "enable": false,
+        "speed": 40,
+        "size_min": 0.1,
+        "sync": false
+      }
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 150,
+      "color": "#ec3458",
+      "opacity": 0.4,
+      "width": 1
+    },
+    "move": {
+      "enable": true,
+      "speed": 2,
+      "direction": "none",
+      "random": false,
+      "straight": false,
+      "out_mode": "out",
+      "bounce": false,
+      "attract": {
+        "enable": false,
+        "rotateX": 600,
+        "rotateY": 1200
+      }
+    }
+  },
+  "interactivity": {
+    "detect_on": "window",
+    "events": {
+      "onhover": {
+        "enable": false,
+        "mode": "repulse"
+      },
+      "onclick": {
+        "enable": true,
+        "mode": "push"
+      },
+      "resize": true
+    },
+    "modes": {
+      "grab": {
+        "distance": 400,
+        "line_linked": {
+          "opacity": 1
+        }
+      },
+      "bubble": {
+        "distance": 400,
+        "size": 40,
+        "duration": 2,
+        "opacity": 8,
+        "speed": 3
+      },
+      "repulse": {
+        "distance": 200,
+        "duration": 0.4
+      },
+      "push": {
+        "particles_nb": 4
+      },
+      "remove": {
+        "particles_nb": 2
+      }
+    }
+  },
+  "retina_detect": true
+};
+    particlesJS("particles-js", options);
+  }
+  jQuery(document).ready(function() {
+    loadParticles();
+  });
+</script>
+
+	
+	<script>
+				jQuery(document).ready(function() {
+					jQuery('.tp-banner').css('visibility', 'visible').show().revolution(
+					{
+						dottedOverlay:"twoxtwo",
+						delay:10000,
+						startwidth:1920,
+						startheight:1080,
+						hideThumbs:0,
+						lazyLoad:"off",
+						thumbWidth:0,
+						thumbHeight:0,
+						thumbAmount:0,
+						
+						navigationType:"bullet",
+						navigationArrows:"solo",
+						navigationStyle:"preview2",
+						
+						touchenabled:"on",
+						onHoverStop:"off",
+						parallax:"scroll",
+						parallaxBgFreeze:"off",
+						parallaxLevels:[10,20,30,40,50,60,70,80,90,100],
+
+						swipe_velocity: 0.7,
+						swipe_min_touches: 1,
+						swipe_max_touches: 2,
+						drag_block_vertical: false,						
+												
+						keyboardNavigation:"on",
+
+						navigationHAlign:"right",
+						navigationVAlign:"bottom",
+						navigationHOffset:20,
+						navigationVOffset:-20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:0,
+						soloArrowLeftVOffset:10,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:0,
+						soloArrowRightVOffset:10,
+
+						hideTimerBar:"off",		
+						shadow:0,
+						fullWidth:"on",
+						fullScreen:"off",
+						fullScreenAlignForce:"off",
+
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						shuffle:"off",
+						
+						autoHeight:"on",						
+						forceFullWidth:"off",
+						fullScreenOffset:"0",						
+																	
+						hideThumbsOnMobile:"on",
+						hideNavDelayOnMobile:1,						
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:9999,
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLimit:0,
+						startWithSlide:0
+					});
+
+									
+				});	
+
+</script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+AOS.init({
+ duration: 1500
+});
+</script>
+
+
+
+<script>
+	jQuery(document).ready(function(){  
+	    jQuery("#full-screen-nav").FSNav({
+	        showSpeed: 300,
+	        hideSpeed: 500,
+	        animation: "dropdown"
+	    });
+	});
+
+	$("#show-nav").click(function(){
+	    $("#full-screen-nav").data("FSNav").showNav();
+	});
+
+</script>
+
+
+
+
+<script>
+jQuery(document).ready(function($) {
+	$(".scroll").click(function (event){
+		event.preventDefault();
+    $('html,body').animate({scrollTop: $("#home").offset().top}, 500);
+	});
+
+	$(".scroll2").click(function (event){
+		event.preventDefault();
+    $('html,body').animate({scrollTop: $("#top-cta").offset().top}, 500);
+	});
+
+	$(".scroll-btt").click(function (event){
+		event.preventDefault();
+    $('html, body').animate({scrollTop: $("#home").offset().top}, 500);
+	});
+});
+</script>
+	
+<script>
+$(document).ready(function(){
+    var sliderOptions = {
+    auto: true,
+    mode:'fade',
+    speed: 500,
+    pause: 10000,
+    touchEnabled: true,
+    adaptiveHeight: true,
+    infiniteLoop: true,
+	slideMargin:15,
+    randomStart: true
+  };
+  var slider = $('.quoteslider').bxSlider(sliderOptions);
+  console.log(slider);
+});
+</script>
+	
+
+
+
+<script>
+var fade_out = function() {
+  $("#preloader").fadeOut().empty();
+}
+setTimeout(fade_out, 800);
+</script>
+
+
+
+<script>
+$(window).scroll(function () {
+    var $heightScrolled = $(window).scrollTop();
+    var $defaultHeight = 25;
+
+    if ( $heightScrolled < $defaultHeight )
+    {
+        $('.small-logo').removeClass("showlogo")
+   		$('.small-logo').addClass("hiddenlogo")
+        }
+    else {
+        $('.small-logo').addClass("showlogo")
+		$('.small-logo').removeClass("hiddenlogo")
+        }
+
+});
+$(window).scroll(function () {
+    var $heightScrolled = $(window).scrollTop();
+    var $defaultHeight = 600;
+
+    if ( $heightScrolled < $defaultHeight )
+    {
+        $('#btt-wrapper').removeClass("showbtt")
+   		$('#btt-wrapper').addClass("hiddenbtt")
+        }
+    else {
+        $('#btt-wrapper').addClass("showbtt")
+		$('#btt-wrapper').removeClass("hiddenbtt")
+        }
+
+});
+</script>
+<!--[if lt IE 9]> <script src="/content/js/jquery.backgroundSize.js"></script> <![endif]-->
+<script>
+$(function() {
+$(document.body).css({backgroundSize: "cover"});
+});
+</script>
+
+
+			<script type="text/javascript" src="/theme/js/super-accord.js"></script>
+
+<script type="text/javascript">
+ddaccordion.init({
+	headerclass: "question", 
+	contentclass: "answer", 
+	revealtype: "click", 
+	mouseoverdelay: 100, 
+	collapseprev: true,
+	defaultexpanded: [], //index of content(s) open by default [index1, index2, etc]. [] denotes no content. 
+	onemustopen: false, 
+	animatedefault: false, 
+	persiststate: false, 
+	toggleclass: ["closedlanguage", "openlanguage"],
+	oninit:function(expandedindices){ 
+	},
+	onopenclose:function(header, index, state, isuseractivated){ 
+	}
+})
+</script>
+	<script type="text/javascript"> 
+
+
+$(".scroll-nav a").on("click", function (e) {
+  e.preventDefault();
+  const href = $(this).attr("href");
+  $("html, body").animate({ scrollTop: $(href).offset().top }, 800);
+});
+
+
+	</script>
+
+
+</body>
+</html>
+
