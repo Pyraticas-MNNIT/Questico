@@ -21,14 +21,6 @@ Future aspects include monetizing the learning platform and covering the AR and 
 
 [VSCode](https://code.visualstudio.com/download) - Integrated Development Environment and Text Editor.
 
-### `Credits`
-
-[EchoAR](https://www.echoar.xyz/) - Augmented Reality.
-
-[OpenWeatherMap](https://openweathermap.org/) - Air Quality Index.
-
-[MapTiler](https://www.maptiler.com/google-maps-platform-alternative/) - Map Integration.
-
 `## Contributors:`
 
 `Team Name: Pyraticas 3.0`
