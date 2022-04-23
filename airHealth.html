@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-12 justify-content-center button-container">
                     <button onclick="getLocation()" class="btn btn-lg btn-light btn-hover-light">Try It</button>
-                    <a type="button" href="index.html" class="btn btn-lg btn-dark btn-hover">explorAR</a>
+                    <a type="button" href="index.html" class="btn btn-lg btn-dark btn-hover">Questico</a>
                 </div>
             </div>
         </div>
@@ -96,9 +96,13 @@
                         </h4>
                     </div>
                     <div class="modal-body" id="feature-info">
-                        <div id="echoar">
-                            <img src="https://media1.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="ok" />
-                        </div>
+                        
+                            <div class="container">
+                                <div class="row">
+                                    <a id="ar_button" href="" type="button" class="btn btn-outline-primary">See Your Tree</a>
+                                </div>
+                            </div>
+                        <!-- </div> -->
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">
@@ -170,7 +174,7 @@
                         `https://console.echoAR.xyz/post?key=${API_KEY}&entry=${ENTRY}&data=aqi&value=${aqi}`,
                         function (data) {
                             $(document).ready(function () {
-                                $("#echoar").load(
+                                $("#ar_button").attr("href",
                                     `https://console.echoAR.xyz/webar?key=${API_KEY}&entry=${ENTRY}`
                                 );
                             });
