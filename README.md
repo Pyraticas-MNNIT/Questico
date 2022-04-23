@@ -8,3 +8,14 @@ Further, the project will comprise of AR modules based on exploring difficult as
 Further aspects include exploring endangered wildlife, auspicious monuments and the wide solar system, which will further motivate students towards learning rather than wasting times on social media platforms. We have also integrated air quality API so that the young upcoming generation must learn and endure what is going on in their ecosystem.
 
 Future aspects include monetizing the learning platform and covering the AR and VR aspect which is a great stone left unturned by tech giants like byjus and unacademy.
+
+
+
+`## Contributors:`
+
+`Team Name: Pyraticas 3.0`
+
+* [Abhijeet Pandey](https://github.com/abhijeetp94)
+* [Abhishek Pathak](https://github.com/Abhisek06)
+* [Ashutosh Pathak](https://github.com/ashutoshPathakVibhu)
+* [Shradhey Pathak](https://github.com/Shradhey1008)
