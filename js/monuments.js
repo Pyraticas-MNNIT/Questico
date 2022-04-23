@@ -3,6 +3,7 @@ var list = {
         {
             title: "Eiffel Tower",
             ar_link: "https://console.echoar.xyz/webar?key=noisy-bar-1396&entry=1bbbec3d-f398-45b8-a353-e46b566f5d90",
+            vr_link: "",
             left: 10,
             longlat: [48.85, 2.29],
             foundin: ["Paris, France"],
