@@ -10,6 +10,10 @@ Further aspects include exploring endangered wildlife, auspicious monuments and 
 
 Future aspects include monetizing the learning platform and covering the AR and VR aspect which is a great stone left unturned by tech giants like byjus and unacademy.
 
+  
+### `Presentation Link:`
+  <a href="https://docs.google.com/presentation/d/1CBGeY9QumsXg5vOczCc3ZVKTW5gtZpWf/edit?usp=sharing&ouid=108434563994817896026&rtpof=true&sd=true"> ppt link here (Correct)</a>
+
 
 ### `Built With`
 
