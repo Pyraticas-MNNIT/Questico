@@ -1,4 +1,5 @@
-![Made-at-Hack-36](https://user-images.githubusercontent.com/58984405/114290927-daba0100-9aa0-11eb-8495-d8137495ea59.png)
+![Built-At-Hack36](https://user-images.githubusercontent.com/58984405/164933733-f67a1d30-d6c5-4400-9921-7123fba7f7fb.png)
+
 # Questico
 An authentic and unique AR-VR experience
 Today in the era of virtual reality, team Pyraticas 3.0 is back yet again with its soundful idea of turning virtual experiences into reality with the help of AR and VR technologies. We are developing an educational portal where students of all ages will get AR and VR based solutions to their subjects which they feel difficult to understand and learn.
