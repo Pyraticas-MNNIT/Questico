@@ -71,7 +71,7 @@ Further aspects include exploring endangered wildlife, auspicious monuments and 
 [Express-js](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
 
 
-`## Contributors:`
+### `Contributors:`
 
 `Team Name: Pyraticas 3.0`
 
