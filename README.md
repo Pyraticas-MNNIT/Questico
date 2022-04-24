@@ -1,4 +1,4 @@
-!![Built-At-Hack36 (1)](https://user-images.githubusercontent.com/58984405/164954782-bd007e78-c29a-4313-aded-2732a74695b6.png)
+![Built-At-Hack36 (1)](https://user-images.githubusercontent.com/58984405/164954782-bd007e78-c29a-4313-aded-2732a74695b6.png)
 
 
 # Questico
