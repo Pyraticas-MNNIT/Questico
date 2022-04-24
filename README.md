@@ -1,4 +1,9 @@
-![Built-At-Hack36 (1)](https://user-images.githubusercontent.com/58984405/164954782-bd007e78-c29a-4313-aded-2732a74695b6.png)
+![Bui![apple-touch-icon](https://user-images.githubusercontent.com/58984405/164956202-af2681af-0f82-4f65-ac0d-bdcb33f4618a.png)
+
+
+
+lt-At-Hack36 (1)](https://user-images.githubusercontent.com/58984405/164954782-bd007e78-c29a-4313-aded-2732a74695b6.png)
+
 
 
 # Questico
@@ -14,10 +19,10 @@ Further aspects include exploring endangered wildlife, auspicious monuments and 
   <a href="https://docs.google.com/presentation/d/1CBGeY9QumsXg5vOczCc3ZVKTW5gtZpWf/edit?usp=sharing&ouid=108434563994817896026&rtpof=true&sd=true">Presentation Link</a>
 
 ### `Website Link:`
-  <a href="questico.netlify.app">Website Link</a>
+  <a href="https://questico.netlify.app/">Website Link</a>
   
 ### `Demo Video Link:`
-  <a href="https://docs.google.com/presentation/d/1CBGeY9QumsXg5vOczCc3ZVKTW5gtZpWf/edit?usp=sharing&ouid=108434563994817896026&rtpof=true&sd=true">Video Link Here</a>
+  <a href="https://youtu.be/9TtD8YtDsBw">Video Link Here</a>
   
 ### `Problem Statement`
 1. Education is the sector which suffered the maximum setback due to Covid – 19 pandemic and due to e-learning which followed by negligence.
