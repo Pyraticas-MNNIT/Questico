@@ -3,6 +3,7 @@
 ![apple-touch-icon](https://user-images.githubusercontent.com/58984405/164956202-af2681af-0f82-4f65-ac0d-bdcb33f4618a.png)
 
 # Questico
+## Explore the Unexplored!
 An authentic and unique AR-VR experience
 Today in the era of virtual reality, team Pyraticas 3.0 is back yet again with its soundful idea of turning virtual experiences into reality with the help of AR and VR technologies. We are developing an educational portal where students of all ages will get AR and VR based solutions to their subjects which they feel difficult to understand and learn.
 
