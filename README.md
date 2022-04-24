@@ -1,10 +1,6 @@
-![Bui![apple-touch-icon](https://user-images.githubusercontent.com/58984405/164956202-af2681af-0f82-4f65-ac0d-bdcb33f4618a.png)
+![Built-At-Hack36 (1)](https://user-images.githubusercontent.com/58984405/164954782-bd007e78-c29a-4313-aded-2732a74695b6.png)
 
-
-
-lt-At-Hack36 (1)](https://user-images.githubusercontent.com/58984405/164954782-bd007e78-c29a-4313-aded-2732a74695b6.png)
-
-
+![apple-touch-icon](https://user-images.githubusercontent.com/58984405/164956202-af2681af-0f82-4f65-ac0d-bdcb33f4618a.png)
 
 # Questico
 An authentic and unique AR-VR experience
@@ -96,4 +92,6 @@ Further aspects include exploring endangered wildlife, auspicious monuments and 
 ![Screenshot (222)](https://user-images.githubusercontent.com/58984405/164956003-9c62c6a6-fe75-493a-bde9-151419258791.png)
 
 ![Screenshot (229)](https://user-images.githubusercontent.com/58984405/164956051-c93efe44-9834-494a-a45d-cdb942593b54.png)
+
+![teahub io-vr-wallpaper-518236](https://user-images.githubusercontent.com/58984405/164956260-4fb95584-fc1f-45a3-ba9b-c91121eee94e.jpg)
 
