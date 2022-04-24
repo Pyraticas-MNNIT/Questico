@@ -1,4 +1,5 @@
-![Built-At-Hack36](https://user-images.githubusercontent.com/58984405/164933733-f67a1d30-d6c5-4400-9921-7123fba7f7fb.png)
+!![Built-At-Hack36 (1)](https://user-images.githubusercontent.com/58984405/164954782-bd007e78-c29a-4313-aded-2732a74695b6.png)
+
 
 # Questico
 An authentic and unique AR-VR experience
@@ -8,11 +9,25 @@ Further, the project will comprise of AR modules based on exploring difficult as
 
 Further aspects include exploring endangered wildlife, auspicious monuments and the wide solar system, which will further motivate students towards learning rather than wasting times on social media platforms. We have also integrated air quality API so that the young upcoming generation must learn and endure what is going on in their ecosystem.
 
-Future aspects include monetizing the learning platform and covering the AR and VR aspect which is a great stone left unturned by tech giants like byjus and unacademy.
 
-  
 ### `Presentation Link:`
   <a href="https://docs.google.com/presentation/d/1CBGeY9QumsXg5vOczCc3ZVKTW5gtZpWf/edit?usp=sharing&ouid=108434563994817896026&rtpof=true&sd=true"> ppt link here (Correct)</a>
+  
+  
+### `Problem Statement`
+1. Education is the sector which suffered the maximum setback due to Covid – 19 pandemic and due to e-learning which followed by negligence.
+2. Rift between conceptual knowledge and mugging up things went on increasing.
+3. Interactive education has come to an end.
+4. It’s difficult to understand some geometrical functions and diagrams by looking at their 2-D designs. For example, complex SCC BCC structures of solid state and        human anatomy.
+5. Also the pandemic has affected the tourism a lot, many people who like to travel to different places are unable to explore the wonders of the world.
+
+
+### `Proposed Solution`
+1. The basic idea is to develop an Augmented and Virtual Reality based modules, which will help students to grasp concepts quickly and in a more interactive manner.
+2. Complex subjects like chemistry, biology and physics that involve lots of visualizations and real life geometric models are added in different sections.
+3. Students will also get to explore space modules, monuments and the solar system which will make e-learning more interesting.
+4. This will help people other than students who want to see the different places but can’t find a single place which contains it all.
+5. Further features include Air Quality Index section, endangered species and famous animals of different areas in the world. This will provide varied insights to the    students.
 
 
 ### `Built With`
